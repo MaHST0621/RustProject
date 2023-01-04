@@ -3,4 +3,6 @@
 members = [
     "hello_rust",
     "guess_number",
+    "rust_course_1",
+    "rust_course_2"
 ]
